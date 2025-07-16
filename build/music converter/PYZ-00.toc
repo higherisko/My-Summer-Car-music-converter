@@ -188,24 +188,6 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\hashlib.py',
    'PYMODULE'),
-  ('imageio_ffmpeg',
-   'c:\\Users\\vilko\\Documents\\MSCMusicConverter\\.venv\\Lib\\site-packages\\imageio_ffmpeg\\__init__.py',
-   'PYMODULE'),
-  ('imageio_ffmpeg._definitions',
-   'c:\\Users\\vilko\\Documents\\MSCMusicConverter\\.venv\\Lib\\site-packages\\imageio_ffmpeg\\_definitions.py',
-   'PYMODULE'),
-  ('imageio_ffmpeg._io',
-   'c:\\Users\\vilko\\Documents\\MSCMusicConverter\\.venv\\Lib\\site-packages\\imageio_ffmpeg\\_io.py',
-   'PYMODULE'),
-  ('imageio_ffmpeg._parsing',
-   'c:\\Users\\vilko\\Documents\\MSCMusicConverter\\.venv\\Lib\\site-packages\\imageio_ffmpeg\\_parsing.py',
-   'PYMODULE'),
-  ('imageio_ffmpeg._utils',
-   'c:\\Users\\vilko\\Documents\\MSCMusicConverter\\.venv\\Lib\\site-packages\\imageio_ffmpeg\\_utils.py',
-   'PYMODULE'),
-  ('imageio_ffmpeg.binaries',
-   'c:\\Users\\vilko\\Documents\\MSCMusicConverter\\.venv\\Lib\\site-packages\\imageio_ffmpeg\\binaries\\__init__.py',
-   'PYMODULE'),
   ('importlib',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\__init__.py',
@@ -341,10 +323,6 @@
   ('pickle',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\pickle.py',
-   'PYMODULE'),
-  ('platform',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\platform.py',
    'PYMODULE'),
   ('pprint',
    'C:\\Program '

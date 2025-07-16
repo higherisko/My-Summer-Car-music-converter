@@ -1,12 +1,19 @@
 import tkinter as tk
 from tkinter import filedialog
 from pydub import AudioSegment
-import imageio_ffmpeg
+from pathlib import Path
 import ntpath
 import os
+import sys
 import time
 
-AudioSegment.converter = imageio_ffmpeg.get_ffmpeg_exe()
+if getattr(sys,"frozen",False):
+    ffmpeg_path = os.path.join(os.path.dirname(sys.executable),"ffmpeg.exe")
+else:
+    ffmpeg_path = "ffmpeg.exe"
+    
+AudioSegment.converter = str(ffmpeg_path)
+AudioSegment.ffmpeg = str(ffmpeg_path)
 
 converting = False
 selected = []
