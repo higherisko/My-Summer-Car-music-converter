@@ -1,3 +1,6 @@
+!! CURRENTLY NON FUNCTIONAL !!
+(will need a rewrite in a different language, since ffmpeg is not a downloadable package which can be compiled into an .exe. Unless the user is willing to download ffmpeg for themselves.)
+
 A music converter, which helps automate the dubious process of importing songs into the game My Summer Car.
 
 Steps to use MSCMC:
